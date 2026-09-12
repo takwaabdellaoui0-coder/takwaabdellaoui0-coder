@@ -1,4 +1,7 @@
 ## Saluut , c'est moi Takwa
+---
+Étudiant en **3ème année DSI (Développement des Systèmes d'Information)**, je suis un passionné de développement web et logiciel. Rigoureux et curieux, j'aime concevoir des applications performantes et relever de nouveaux défis techniques.
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/takwa-abdellaoui-731693397/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:takwaabdellaoui0@gmail.com) 
 
@@ -8,11 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=takwaabdellaoui0-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=takwaabdellaoui0-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=takwaabdellaoui0-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-
-Étudiant en **3ème année DSI (Développement des Systèmes d'Information)**, je suis un passionné de développement web et logiciel. Rigoureux et curieux, j'aime concevoir des applications performantes et relever de nouveaux défis techniques.
 
 ---
 
