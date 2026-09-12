@@ -12,8 +12,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=takwaabdellaoui0-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 Étudiant en **2ème année DSI (Développement des Systèmes d'Information)**, je suis un passionné de développement web et logiciel. Rigoureux et curieux, j'aime concevoir des applications performantes et relever de nouveaux défis techniques.
 
 ---
