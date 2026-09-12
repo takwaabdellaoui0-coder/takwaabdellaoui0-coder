@@ -1,6 +1,6 @@
 ## Saluut , c'est moi Takwa
 
-Étudiant en **3ème année DSI (Développement des Systèmes d'Information)**, je suis un passionné de développement web et logiciel. Rigoureux et curieux, j'aime concevoir des applications performantes et relever de nouveaux défis techniques.
+Étudiante en **3ème année DSI (Développement des Systèmes d'Information)**, je suis passionné de développement web et logiciel.
 
 ---
 
