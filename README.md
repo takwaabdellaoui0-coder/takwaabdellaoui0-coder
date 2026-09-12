@@ -10,9 +10,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=takwaabdellaoui0-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=takwaabdellaoui0-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Étudiant en **2ème année DSI (Développement des Systèmes d'Information)**, je suis un passionné de développement web et logiciel. Rigoureux et curieux, j'aime concevoir des applications performantes et relever de nouveaux défis techniques.
+
+Étudiant en **3ème année DSI (Développement des Systèmes d'Information)**, je suis un passionné de développement web et logiciel. Rigoureux et curieux, j'aime concevoir des applications performantes et relever de nouveaux défis techniques.
 
 ---
 
@@ -39,10 +39,6 @@
 - 🔎 À la recherche d'un **stage de fin d'études** en développement web ou logiciel.
 - 📚 En train d'approfondir mes connaissances sur les architectures microservices et les bonnes pratiques de code (Clean Code).
 
----
 
-### 📫 Me contacter
-- **LinkedIn :https://www.linkedin.com/in/takwa-abdellaoui-731693397/
-- **Email :** takwaabdellaoui0@gmail.com
 
 
